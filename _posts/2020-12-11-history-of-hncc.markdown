@@ -50,9 +50,11 @@ We organize a national level hackathon `HACKATRON` every year. The fisrt session
 1. Machine learning - `Beginner to Kaggle` held on 1st march
 2. Workshop for basic pyhton in Machine Learning held on 15th december
 3. Intriduction to OOPS for android developer `Thinking OOPs way of development` held on....
-4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)` ,`Shailesh Anand(ECE 2k18)`
+4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)` ,`Shailesh Anand(ECE 2k18)`.
 
-    OUR TECHFEST EVENTS
+  {% highlight ruby %} 
+   TECHFEST EVENTS
+   {% endhighlight %}
 
 1. Developer Of The Year, tech stacks includes {% highlight ruby %}
 a) App Development
@@ -61,9 +63,11 @@ c) Machine learning
 d) Game development
 {% endhighlight %}
 2. designtelllo -> slogan `redesign the design`
-3. Code Storm
+3. Code Storm 
 
-    CODING
+   {% highlight ruby %} 
+   CODING
+   {% endhighlight %}
 1. The Monsoon Coders
 2. BIT CODE -> {% highlight ruby %}
 a) Monthly CP Evevts - these conetst
