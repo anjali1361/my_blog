@@ -40,7 +40,7 @@ My skills are listed below :-
 3. postgreSQL
 
 `Cloud Used`
-1. Hreoku
+1. Heroku
 2. AWS
 
 {% endhighlight %}
