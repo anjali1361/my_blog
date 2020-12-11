@@ -14,7 +14,7 @@ The day I got the news that `You got inducted in HnCC`,it seems cloud breaking a
 
                              
                             {% highlight ruby %}
-                                My Journey To Tech
+  My Journey To Tech
 {% endhighlight %}
 
 `Andorid Development`
@@ -23,7 +23,7 @@ Initially I started as an Native Android Developer and the very first app that I
 During the journey I learnt many things and my curiosity to learn more got it's height day-by-day, I started making APIs to use it in my own projects,explored the concept of `JSON Parsing`,`Volley`,`Room database`,`Firebase` and many more
 Here is some popular apps that Imade using the concepts learnt:-
 
-BIT NETWORK - It is open souce project made to connect `Alumuni` ,`Teachers `,`Non-Teachers`,`Seniors` all together via this platform, they can `post contents` ,`comment`,`chat` with anyone and a much ore with superb frontend. Here is the glimpse of it....some images
+`BIT NETWORK` - It is open souce project made to connect `Alumuni` ,`Teachers `,`Non-Teachers`,`Seniors` all together via this platform, they can `post contents` ,`comment`,`chat` with anyone and a much ore with superb frontend. Here is the glimpse of it....some images
 check out this project at my [github bit network][github bit network]
 
 Check my all Open source Projects at [this][this]
