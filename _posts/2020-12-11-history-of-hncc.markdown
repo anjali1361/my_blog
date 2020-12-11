@@ -39,31 +39,30 @@ Now lets's hit back to the history of HnCC,
 
 With limited resources, they managed to guide us in `leadership` ,`projects`, `managing events`, `conducting classes`, and the 1st and only proper hackathon `Hackatron` ever held in BIT SINDRI.It seems impossible when we look back but it did happen.We managed to establish an organization because of them we are all set to make it graet.
 
-`OUR ACTIVITIES`
+        OUR ACTIVITIES
 
-    HACKATHON
+  `HACKATHON`
 
 We organize a national level hackathon `HACKATRON` every year. The fisrt session of this was conducted in between `16-17th of November`.
 
-    WORKSHOPS & SESSIONS
+  `WORKSHOPS & SESSIONS`
 
 1. Machine learning - `Beginner to Kaggle` held on 1st march
 2. Workshop for basic pyhton in Machine Learning held on 15th december
 3. Intriduction to OOPS for android developer `Thinking OOPs way of development` held on....
 4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)` ,`Shailesh Anand(ECE 2k18)`.
 
-  {% highlight ruby %} TECHFEST EVENTS {% endhighlight %}
+  `TECHFEST EVENTS`
 
-1. Developer Of The Year, tech stacks includes {% highlight ruby %}
+1. Developer Of The Year, tech stacks includes
 a) App Development
 b) Web Development
 c) Machine learning
 d) Game development
-{% endhighlight %}
 2. designtelllo -> slogan `redesign the design`
 3. Code Storm 
 
-   {% highlight ruby %} CODING {% endhighlight %}
+   `CODING`
 1. The Monsoon Coders
 2. BIT CODE -> 
 {% highlight ruby %} a) Monthly CP Evevts - these conetst
@@ -72,13 +71,13 @@ d) Game development
 b) Intro to `ACM` ,`ICPC` for Bitians 
 {% endhighlight %}
                                 
-`OUR PROJECTS`
+      OUR PROJECTS
 
 Check out [Our Projects][github-link] for more info on how to get the most out of these open source projects.
 
 [github-link]: https://github.com/hnccbits
 
-`OUR SPONSORS`
+      OUR SPONSORS
  {% highlight ruby %}
 a) CodeChef
 b) TEQIP-3
