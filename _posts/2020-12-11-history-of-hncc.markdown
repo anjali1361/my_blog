@@ -52,9 +52,7 @@ We organize a national level hackathon `HACKATRON` every year. The fisrt session
 3. Intriduction to OOPS for android developer `Thinking OOPs way of development` held on....
 4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)` ,`Shailesh Anand(ECE 2k18)`.
 
-  {% highlight ruby %} 
-   TECHFEST EVENTS
-   {% endhighlight %}
+  {% highlight ruby %} TECHFEST EVENTS {% endhighlight %}
 
 1. Developer Of The Year, tech stacks includes {% highlight ruby %}
 a) App Development
@@ -65,15 +63,13 @@ d) Game development
 2. designtelllo -> slogan `redesign the design`
 3. Code Storm 
 
-   {% highlight ruby %} 
-   CODING
-   {% endhighlight %}
+   {% highlight ruby %} CODING {% endhighlight %}
 1. The Monsoon Coders
-2. BIT CODE -> {% highlight ruby %}
-a) Monthly CP Evevts - these conetst
+2. BIT CODE -> 
+{% highlight ruby %} a) Monthly CP Evevts - these conetst
  will be organized keeping Coding Interviews 
  and Placement in mind.
-b) Intro to `ACM` ,`ICPC` for Bitians
+b) Intro to `ACM` ,`ICPC` for Bitians 
 {% endhighlight %}
                                 
 `OUR PROJECTS`
