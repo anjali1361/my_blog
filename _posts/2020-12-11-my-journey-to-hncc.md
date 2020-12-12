@@ -19,17 +19,19 @@ Here are some popular apps that I made using the concepts learned:-
 
 `BIT NETWORK` -> It is an open-source project made to connect `Alumni`, `Teachers `, `Non-Teachers`, `Seniors` all together via this platform, they can `post contents`, `comment`, `chat` with anyone and a much ore with superb frontend. Here are some glimpse of it.......
 
-<img src="https://imgur.com/bMOe593.jpg" align="center" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://imgur.com/H6VxeBM.jpg" align="center" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://imgur.com/XqGViLG.jpg" align="center" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
-
 <p align="center">
-<img src="https://imgur.com/wGPUr9j.jpg" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://imgur.com/FIOLAX2.jpg" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://imgur.com/bMOe593.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://imgur.com/H6VxeBM.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://imgur.com/XqGViLG.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 <p align="center">
-<img src="https://imgur.com/pDXX3gp.jpg" width="200" height="260"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://imgur.com/wGPUr9j.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://imgur.com/FIOLAX2.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+<p align="center">
+<img src="https://imgur.com/pDXX3gp.jpg" width="200" height="300"> &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 check out this project at my [github bit network][github bit network]
