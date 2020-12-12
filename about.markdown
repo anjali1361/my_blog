@@ -30,9 +30,9 @@ My skills are listed below :-
 1. Heroku
 2. AWS
 
-To Know More Do Visit My [Site][Site]
+To Know More Do Visit My [Website][Site]
 
-[Site]:
+[Site]: https://github.com/anjali1361/awesome-portfolio-websites
 
 
 
