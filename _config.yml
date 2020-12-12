@@ -21,9 +21,8 @@
 title: My Blog
 email: anjalikumari13617@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- This is my Blog Site where I used to describe my experience of tech world as 
- I belong to a non-circuital branch.
-baseurl: "my_blog" # the subpath of your site, e.g. /blog
+ To know more about me visit my Website
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AnjaliK54757047
 github_username:  anjali1361

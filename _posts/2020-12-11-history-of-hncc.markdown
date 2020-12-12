@@ -29,30 +29,30 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
 
 
-Hackathon and Coding Club is the official Hackathon and Coding club of `BIT SINDRI` initially started with the motto of inculcating and improving collaborative coding culture in our collage.
+Hackathon and Coding Club is the official Hackathon and Coding club of `BIT SINDRI` initially started with the motto of inculcating and improving collaborative coding culture in our college.
 
-Not just a club ,it is a society for collborative software development.
+Not just a club, it is a society for collaborative software development.
 
 Now lets's hit back to the history of HnCC,
 
-"We saw a notice in 2018 that called for people interested in programming to start a club for coders." This initiative was led by the `2k16 batch`.They were a small group of peoplebut determined to make a society that would lead by example in building the coding culture.They started building base of Dev-Society `Currently HnCC` which is not a club initially,it started as a collaborative society which is open to all interested in coding.
+"We saw a notice in 2018 that called for people interested in programming to start a club for coders." This initiative was led by the `2k16 batch`.They were a small group of people but determined to make a society that would lead by example in building the coding culture. They started building the base of Dev-Society `Currently HnCC` which is not a club initially, it started as a collaborative society that is open to all interested in coding.
 
-With limited resources, they managed to guide us in `leadership` ,`projects`, `managing events`, `conducting classes`, and the 1st and only proper hackathon `Hackatron` ever held in BIT SINDRI.It seems impossible when we look back but it did happen.We managed to establish an organization because of them we are all set to make it graet.
+With limited resources, they managed to guide us in `leadership`, `projects`, `managing events`, `conducting classes`, and the 1st and only proper hackathon `Hackatron` ever held in BIT SINDRI. It seems impossible when we look back but it did happen. We managed to establish an organization because of them we are all set to make it great.
 
-        OUR ACTIVITIES
+      OUR ACTIVITIES
 
-  `HACKATHON`
+`HACKATHON`
 
-We organize a national level hackathon `HACKATRON` every year. The fisrt session of this was conducted in between `16-17th of November`.
+We organize a national level hackathon `HACKATRON` every year. The first session of this was conducted between `16-17th of November`.
 
-  `WORKSHOPS & SESSIONS`
+`WORKSHOPS & SESSIONS`
 
 1. Machine learning - `Beginner to Kaggle` held on 1st march
-2. Workshop for basic pyhton in Machine Learning held on 15th december
-3. Intriduction to OOPS for android developer `Thinking OOPs way of development` held on....
-4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)` ,`Shailesh Anand(ECE 2k18)`.
+2. Workshop for basic python in Machine Learning held on 15th December
+3. Introduction to OOPS for android developer `Thinking OOPs way of development` held on...
+4. Intro to Open Source `HACKTOBERFEST 2019`, speakers: `Suraj Kumar Mahto(IT 2k18)`, `Shailesh Anand(ECE 2k18)`.
 
-  `TECHFEST EVENTS`
+`TECHFEST EVENTS`
 
 1. Developer Of The Year, tech stacks includes
 a) App Development
@@ -62,7 +62,8 @@ d) Game development
 2. designtelllo -> slogan `redesign the design`
 3. Code Storm 
 
-   `CODING`
+`CODING`
+
 1. The Monsoon Coders
 2. BIT CODE -> 
 {% highlight ruby %} a) Monthly CP Evevts - these conetst
