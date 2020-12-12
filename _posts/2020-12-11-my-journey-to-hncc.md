@@ -58,9 +58,11 @@ I tried to participate in each event organized in `Hacktoberfest` and made my `4
 `Some Achievements Of HACTOBERFEST`
 <br>
 <br>
+<p align="center">
 <img src="https://imgur.com/YYURFOV.jpg" align="center" width ="200" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://imgur.com/P2SkUKb.jpg" align="center" width ="200" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://imgur.com/s38M7HZ.jpg" align="center" width="200" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
 `And the journey continued...........`
 
