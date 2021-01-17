@@ -49,21 +49,21 @@ Title:-Tic Tac Toe Game
 <!-- [check it out](https://devpost.com/software/tic_tac_toe_python) -->
 
 #### Project-2<br>
-Title:-Build and Deploy Your First Website
+<a href="https://anjali1361.github.io/">Title:-Build and Deploy Your First Website</a>
 <p align="center">
 <a href="https://devpost.com/software/anjali1361-github-io"><img src="https://imgur.com/ySjoxWe.jpg"  width="600" height="400"></a>
 </p><br>
 <!-- [check it out](https://devpost.com/software/anjali1361-github-io) -->
 
 #### Project-3<br>
-Title:-Redesign your favorite website
+<a href="https://anjali1361.github.io/RedesignTheDesign/">Title:-Redesign your favorite website</a>
 <p align="center">
 <a href="https://devpost.com/software/redesign-the-design"><img src="https://imgur.com/eHhqpGo.jpg"  width="600" height="400"></a>
 </p><br>
 <!-- [check it out](https://devpost.com/software/redesign-the-design) -->
 
 #### Project-4<br>
-Title:-Chrome Dinosaur Game
+<a href="https://anjali1361.github.io/dino_game_LHD/">Title:-Chrome Dinosaur Game</a>
 <p align="center">
 <a href="https://devpost.com/software/dino_game_lhd"><img src="https://imgur.com/vXOdgsV.jpg"  width="600" height="400"></a>
 </p><br>
@@ -72,7 +72,7 @@ Title:-Chrome Dinosaur Game
 ### Local Hack Day: Build-3
 
 #### Project-1<br>
-Titlte:-Light in your kitchen
+<a href="https://anjali1361.github.io/Light_Your_Kitchen_Website/">Titlte:-Light in your kitchen</a>
 <p align="center">
 <a href="https://github.com/anjali1361/Light_Your_Kitchen_Website"><img src="https://imgur.com/zxT3sCD.jpg"  width="600" height="400"></a>
 </p><br>
@@ -134,7 +134,7 @@ Title:-Playing With Hardware
 <!-- [check it out](https://devpost.com/software/iot-temperature-sensing-project) -->
 
 #### Project-4<br>
-Title:-Try using Bootstrap
+<a href="https://anjali1361.github.io/Bootstrap_Website.github.io/">Title:-Try using Bootstrap</a>
 <p align="center">
 <a href="https://devpost.com/software/bootstrap_website-github-io"><img src="https://imgur.com/mGWLfrG.jpg"  width="600" height="400"></a>
 </p><br>
