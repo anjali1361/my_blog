@@ -4,5 +4,5 @@ My Blog site Made with jekyll
 >
 >- bundle exec jekyll serve
 >
->- Read [here](https://github.com/anjali1361/my_blog) 
+>- Read [here](https://anjali1361.github.io/my_blog/) 
 
